@@ -1,4 +1,4 @@
-<img src="http://duzani.azurewebsites.net/images/duzani_cadastre.jpg" alt="Self-Driving Car" width="800px">
+<img src="http://duzani.azurewebsites.net/images/duzani_cadastre.jpg" alt="Duzani" width="800px">
 
 # Duzani #
 * [www.duzanibh.com](https://www.duzanibh.com)
